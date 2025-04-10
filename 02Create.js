@@ -29,4 +29,8 @@ db.programer.insertMany([{
     age:[45,56,78],
     size:{h:19,w:23} 
 },{
+<<<<<<< HEAD
 }]);
+=======
+}]);
+>>>>>>> 17c0e4962f2dc541e2c46ccdffecd5f18d90b148

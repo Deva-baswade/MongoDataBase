@@ -1,7 +1,8 @@
-// show  -show all the datebases
-//use employee - use the employee database
-CRUD  
-CREATE 
-READ 
-UPDATE 
-DELETE 
+show dbs 
+use employees
+
+C-CREATE 
+R-READ
+U-UPDATE
+D-DELETE
+// C-R-U-D
